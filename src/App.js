@@ -1,4 +1,3 @@
-import "./App.css";
 import store from "./store";
 
 import { bugAdded } from "./actions";
